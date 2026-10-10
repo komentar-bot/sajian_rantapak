@@ -1,1 +1,1 @@
-\includegraphics[width=.86\textwidth]{../figures/views_1}
+\bgdarkimg{kaitan_1}
