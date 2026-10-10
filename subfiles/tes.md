@@ -1,1 +1,1 @@
-\bgdarkimg{kaitan_1}
+\bgdarkimg{iklim_1}
